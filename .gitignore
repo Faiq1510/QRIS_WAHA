@@ -1,0 +1,4 @@
+.env
+gen-lang-client-*.json
+*.exe
+*.zip

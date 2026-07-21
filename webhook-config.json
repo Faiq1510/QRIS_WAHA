@@ -1,0 +1,10 @@
+﻿{
+  "config": {
+    "webhooks": [
+      {
+        "url": "http://n8n:5678/webhook/vps-order",
+        "events": ["message"]
+      }
+    ]
+  }
+}
